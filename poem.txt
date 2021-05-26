@@ -1,6 +1,7 @@
-The Rainbow
+The Rainbow:
 Purple
-blue
-orange
-red
-violet
+Blue
+Orange
+Red
+Violet
+Green
